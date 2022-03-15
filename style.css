@@ -714,7 +714,7 @@ height:280px;
 
 
 
-@media  (max-width:399px){
+@media  (max-width:416px){
 
 
 .btn1,.btn2{
@@ -760,5 +760,31 @@ height:280px;
 			width:100%;
 
 		}
+
+
+
+
+.sub-heading{
+	font-size:2.4rem;
+	
+
+}
+
+.main-heading{
+	font-size:2.5rem;
+
+}
+
+
+.slogan{
+
+	font-size:1.6rem;
+}
+
+
+.about-project a{
+	font-size:2.3rem;
+
+}
 
 }
